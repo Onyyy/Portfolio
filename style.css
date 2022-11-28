@@ -123,6 +123,10 @@ section::before {
     content: 'Iot Project';
 }
 
+.form::before {
+    content: 'Contact';
+}
+
 
 @keyframes upDown {
     0% {
